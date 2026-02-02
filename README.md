@@ -2,6 +2,8 @@
 
 A web scraper that monitors product prices and alerts you when they drop.
 
+Remember to have 2 terminals open for use
+
 ## Setup
 
 ```bash
